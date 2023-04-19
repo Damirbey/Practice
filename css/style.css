@@ -134,7 +134,7 @@ body {
       grid-column: full-start/full-end; } }
   @media only screen and (max-width: 40.625em) {
     .header {
-      padding: 0; } }
+      padding: 4rem; } }
   .header__logo {
     height: 3rem;
     justify-self: center; }
